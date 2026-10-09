@@ -1,0 +1,10 @@
+{
+  "name": "lea-public_html-under59mb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LEA Organization static website",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
